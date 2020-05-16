@@ -1,0 +1,8 @@
+main: it.heroeminecratti.MobSpawnerSay.Main
+name: MobSpawnerSay
+version: 1.0.0
+description: Il player riceve una notifica quando spacca uno spawner!
+api-version: 1.15
+load: POSTWORLD
+author: heroeminecratti
+prefix: MobSpawnerSay
